@@ -75,6 +75,7 @@ export class UserSettingsApplyFlow {
                 error: error.message
             };
         }
+    
     }
 
     validateSettingsParams(params) {
